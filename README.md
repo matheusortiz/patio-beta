@@ -1,0 +1,1 @@
+Este é um projeto de teste para portabilizar o projeto de controle de pátio para uma estrutura Docker.
